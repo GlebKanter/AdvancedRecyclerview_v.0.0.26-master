@@ -1,0 +1,6 @@
+21:06:22 INFO  - App is started
+21:06:22 INFO  - Start test testDragNDrop
+21:06:22 INFO  - Start find ---> By.id: com.h6ah4i.android.example.advrecyclerview:id/drag_handle
+21:06:23 INFO  - By.id: com.h6ah4i.android.example.advrecyclerview:id/drag_handle <--- End of find
+21:06:24 INFO  - Stop test testDragNDrop
+************************************************

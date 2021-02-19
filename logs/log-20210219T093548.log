@@ -1,0 +1,26 @@
+09:35:56 INFO  - App is started
+09:35:56 INFO  - Start test testDragNDrop
+09:35:56 INFO  - Start find ---> By.id: com.h6ah4i.android.example.advrecyclerview:id/drag_handle
+09:35:58 INFO  - By.id: com.h6ah4i.android.example.advrecyclerview:id/drag_handle <--- End of find
+09:36:02 INFO  - Stop test testDragNDrop
+************************************************
+09:36:02 INFO  - Start test testDragNDrop2
+09:36:03 INFO  - Start find ---> By.id: com.h6ah4i.android.example.advrecyclerview:id/drag_handle
+09:36:04 INFO  - By.id: com.h6ah4i.android.example.advrecyclerview:id/drag_handle <--- End of find
+09:36:09 INFO  - Stop test testDragNDrop2
+************************************************
+09:36:09 INFO  - Start test testDragNDrop3
+09:36:10 INFO  - Start find ---> By.id: com.h6ah4i.android.example.advrecyclerview:id/drag_handle
+09:36:11 INFO  - By.id: com.h6ah4i.android.example.advrecyclerview:id/drag_handle <--- End of find
+09:36:15 INFO  - Stop test testDragNDrop3
+************************************************
+09:36:15 INFO  - Start test testHorizontalSwipeLR
+09:36:17 INFO  - Start find ---> By.id: com.h6ah4i.android.example.advrecyclerview:id/container
+09:36:27 INFO  - By.id: com.h6ah4i.android.example.advrecyclerview:id/container <--- End of find
+09:36:29 INFO  - Stop test testHorizontalSwipeLR
+************************************************
+09:36:29 INFO  - Start test testHorizontalSwipeRL
+09:36:31 INFO  - Start find ---> By.id: com.h6ah4i.android.example.advrecyclerview:id/container
+09:36:41 INFO  - By.id: com.h6ah4i.android.example.advrecyclerview:id/container <--- End of find
+09:36:43 INFO  - Stop test testHorizontalSwipeRL
+************************************************

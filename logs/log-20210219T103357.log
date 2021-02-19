@@ -1,0 +1,6 @@
+10:34:06 INFO  - App is started
+10:34:06 INFO  - Start test testHorizontalSwipeRL
+10:34:07 INFO  - Start find ---> By.id: com.h6ah4i.android.example.advrecyclerview:id/container
+10:34:17 INFO  - By.id: com.h6ah4i.android.example.advrecyclerview:id/container <--- End of find
+10:34:19 INFO  - Stop test testHorizontalSwipeRL
+************************************************

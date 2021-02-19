@@ -1,0 +1,15 @@
+20:31:21 INFO  - App is started
+20:31:21 INFO  - Start test testDragNDrop
+20:31:21 INFO  - Stop test testDragNDrop
+************************************************
+20:31:21 INFO  - Start test testHorizontalSwipe
+20:31:22 ERROR - org.openqa.selenium.StaleElementReferenceException: The element 'By.accessibilityId: Swipe' does not exist in DOM anymore
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I31H4EG', ip: '10.0.0.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/GLEB/Testing/apk/Adv..., appPackage: com.h6ah4i.android.example...., automationName: Appium, databaseEnabled: false, desired: {app: /Users/GLEB/Testing/apk/Adv..., appPackage: com.h6ah4i.android.example...., automationName: Appium, deviceName: GK, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: e1e3e292-884b-4bd9-b415-cfae87307f7c
+20:31:23 ERROR - src/test/screenshots/screen-1613673082880.png
+20:31:23 INFO  - Stop test testHorizontalSwipe
+************************************************
